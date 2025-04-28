@@ -1,0 +1,10 @@
+D:\011C#\Type\bin\Debug\Type.exe.config
+D:\011C#\Type\bin\Debug\Type.exe
+D:\011C#\Type\bin\Debug\Type.pdb
+D:\011C#\Type\obj\Debug\Type.csproj.AssemblyReference.cache
+D:\011C#\Type\obj\Debug\Type.Form1.resources
+D:\011C#\Type\obj\Debug\Type.Properties.Resources.resources
+D:\011C#\Type\obj\Debug\Type.csproj.GenerateResource.cache
+D:\011C#\Type\obj\Debug\Type.csproj.CoreCompileInputs.cache
+D:\011C#\Type\obj\Debug\Type.exe
+D:\011C#\Type\obj\Debug\Type.pdb

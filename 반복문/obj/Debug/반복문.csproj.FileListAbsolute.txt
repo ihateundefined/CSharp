@@ -1,0 +1,10 @@
+D:\011C#\반복문\bin\Debug\반복문.exe.config
+D:\011C#\반복문\bin\Debug\반복문.exe
+D:\011C#\반복문\bin\Debug\반복문.pdb
+D:\011C#\반복문\obj\Debug\반복문.csproj.AssemblyReference.cache
+D:\011C#\반복문\obj\Debug\반복문.Form1.resources
+D:\011C#\반복문\obj\Debug\반복문.Properties.Resources.resources
+D:\011C#\반복문\obj\Debug\반복문.csproj.GenerateResource.cache
+D:\011C#\반복문\obj\Debug\반복문.csproj.CoreCompileInputs.cache
+D:\011C#\반복문\obj\Debug\반복문.exe
+D:\011C#\반복문\obj\Debug\반복문.pdb

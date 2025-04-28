@@ -1,0 +1,10 @@
+D:\011C#\MyLovelyFirstCSharp\bin\Debug\MyLovelyFirstCSharp.exe.config
+D:\011C#\MyLovelyFirstCSharp\bin\Debug\MyLovelyFirstCSharp.exe
+D:\011C#\MyLovelyFirstCSharp\bin\Debug\MyLovelyFirstCSharp.pdb
+D:\011C#\MyLovelyFirstCSharp\obj\Debug\MyLovelyFirstCSharp.csproj.AssemblyReference.cache
+D:\011C#\MyLovelyFirstCSharp\obj\Debug\MyLovelyFirstCSharp.Form1.resources
+D:\011C#\MyLovelyFirstCSharp\obj\Debug\MyLovelyFirstCSharp.Properties.Resources.resources
+D:\011C#\MyLovelyFirstCSharp\obj\Debug\MyLovelyFirstCSharp.csproj.GenerateResource.cache
+D:\011C#\MyLovelyFirstCSharp\obj\Debug\MyLovelyFirstCSharp.csproj.CoreCompileInputs.cache
+D:\011C#\MyLovelyFirstCSharp\obj\Debug\MyLovelyFirstCSharp.exe
+D:\011C#\MyLovelyFirstCSharp\obj\Debug\MyLovelyFirstCSharp.pdb

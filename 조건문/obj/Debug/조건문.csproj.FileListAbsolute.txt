@@ -1,0 +1,10 @@
+D:\011C#\조건문\bin\Debug\조건문.exe.config
+D:\011C#\조건문\bin\Debug\조건문.exe
+D:\011C#\조건문\bin\Debug\조건문.pdb
+D:\011C#\조건문\obj\Debug\조건문.csproj.AssemblyReference.cache
+D:\011C#\조건문\obj\Debug\조건문.Form1.resources
+D:\011C#\조건문\obj\Debug\조건문.Properties.Resources.resources
+D:\011C#\조건문\obj\Debug\조건문.csproj.GenerateResource.cache
+D:\011C#\조건문\obj\Debug\조건문.csproj.CoreCompileInputs.cache
+D:\011C#\조건문\obj\Debug\조건문.exe
+D:\011C#\조건문\obj\Debug\조건문.pdb

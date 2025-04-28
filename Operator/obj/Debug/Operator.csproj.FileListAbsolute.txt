@@ -1,0 +1,10 @@
+D:\011C#\Operator\bin\Debug\Operator.exe.config
+D:\011C#\Operator\bin\Debug\Operator.exe
+D:\011C#\Operator\bin\Debug\Operator.pdb
+D:\011C#\Operator\obj\Debug\Operator.csproj.AssemblyReference.cache
+D:\011C#\Operator\obj\Debug\Operator.Form1.resources
+D:\011C#\Operator\obj\Debug\Operator.Properties.Resources.resources
+D:\011C#\Operator\obj\Debug\Operator.csproj.GenerateResource.cache
+D:\011C#\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+D:\011C#\Operator\obj\Debug\Operator.exe
+D:\011C#\Operator\obj\Debug\Operator.pdb
