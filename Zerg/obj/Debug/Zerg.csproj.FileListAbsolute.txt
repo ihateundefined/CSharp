@@ -1,0 +1,7 @@
+D:\011C#\Zerg\obj\Debug\Zerg.csproj.AssemblyReference.cache
+D:\011C#\Zerg\obj\Debug\Zerg.csproj.CoreCompileInputs.cache
+D:\011C#\Zerg\bin\Debug\Zerg.exe.config
+D:\011C#\Zerg\bin\Debug\Zerg.exe
+D:\011C#\Zerg\bin\Debug\Zerg.pdb
+D:\011C#\Zerg\obj\Debug\Zerg.exe
+D:\011C#\Zerg\obj\Debug\Zerg.pdb

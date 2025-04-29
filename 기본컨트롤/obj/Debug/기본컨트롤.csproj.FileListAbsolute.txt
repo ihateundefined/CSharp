@@ -1,0 +1,10 @@
+D:\011C#\기본컨트롤\bin\Debug\기본컨트롤.exe.config
+D:\011C#\기본컨트롤\bin\Debug\기본컨트롤.exe
+D:\011C#\기본컨트롤\bin\Debug\기본컨트롤.pdb
+D:\011C#\기본컨트롤\obj\Debug\기본컨트롤.csproj.AssemblyReference.cache
+D:\011C#\기본컨트롤\obj\Debug\기본컨트롤.Form1.resources
+D:\011C#\기본컨트롤\obj\Debug\기본컨트롤.Properties.Resources.resources
+D:\011C#\기본컨트롤\obj\Debug\기본컨트롤.csproj.GenerateResource.cache
+D:\011C#\기본컨트롤\obj\Debug\기본컨트롤.csproj.CoreCompileInputs.cache
+D:\011C#\기본컨트롤\obj\Debug\기본컨트롤.exe
+D:\011C#\기본컨트롤\obj\Debug\기본컨트롤.pdb

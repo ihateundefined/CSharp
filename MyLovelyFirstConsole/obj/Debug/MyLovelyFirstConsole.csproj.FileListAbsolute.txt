@@ -1,0 +1,7 @@
+D:\011C#\MyLovelyFirstConsole\bin\Debug\MyLovelyFirstConsole.exe.config
+D:\011C#\MyLovelyFirstConsole\bin\Debug\MyLovelyFirstConsole.exe
+D:\011C#\MyLovelyFirstConsole\bin\Debug\MyLovelyFirstConsole.pdb
+D:\011C#\MyLovelyFirstConsole\obj\Debug\MyLovelyFirstConsole.csproj.AssemblyReference.cache
+D:\011C#\MyLovelyFirstConsole\obj\Debug\MyLovelyFirstConsole.csproj.CoreCompileInputs.cache
+D:\011C#\MyLovelyFirstConsole\obj\Debug\MyLovelyFirstConsole.exe
+D:\011C#\MyLovelyFirstConsole\obj\Debug\MyLovelyFirstConsole.pdb
