@@ -1,0 +1,11 @@
+D:\011C#\250507_MessageAlarm\bin\Debug\250507_MessageAlarm.exe.config
+D:\011C#\250507_MessageAlarm\bin\Debug\250507_MessageAlarm.exe
+D:\011C#\250507_MessageAlarm\bin\Debug\250507_MessageAlarm.pdb
+D:\011C#\250507_MessageAlarm\obj\Debug\250507_MessageAlarm.csproj.AssemblyReference.cache
+D:\011C#\250507_MessageAlarm\obj\Debug\_250507_MessageAlarm.Form1.resources
+D:\011C#\250507_MessageAlarm\obj\Debug\_250507_MessageAlarm.MessageForm.resources
+D:\011C#\250507_MessageAlarm\obj\Debug\_250507_MessageAlarm.Properties.Resources.resources
+D:\011C#\250507_MessageAlarm\obj\Debug\250507_MessageAlarm.csproj.GenerateResource.cache
+D:\011C#\250507_MessageAlarm\obj\Debug\250507_MessageAlarm.csproj.CoreCompileInputs.cache
+D:\011C#\250507_MessageAlarm\obj\Debug\250507_MessageAlarm.exe
+D:\011C#\250507_MessageAlarm\obj\Debug\250507_MessageAlarm.pdb

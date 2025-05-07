@@ -1,0 +1,10 @@
+D:\011C#\250507_meni\bin\Debug\250507_meni.exe.config
+D:\011C#\250507_meni\bin\Debug\250507_meni.exe
+D:\011C#\250507_meni\bin\Debug\250507_meni.pdb
+D:\011C#\250507_meni\obj\Debug\250507_meni.csproj.AssemblyReference.cache
+D:\011C#\250507_meni\obj\Debug\_250507_meni.Form1.resources
+D:\011C#\250507_meni\obj\Debug\_250507_meni.Properties.Resources.resources
+D:\011C#\250507_meni\obj\Debug\250507_meni.csproj.GenerateResource.cache
+D:\011C#\250507_meni\obj\Debug\250507_meni.csproj.CoreCompileInputs.cache
+D:\011C#\250507_meni\obj\Debug\250507_meni.exe
+D:\011C#\250507_meni\obj\Debug\250507_meni.pdb

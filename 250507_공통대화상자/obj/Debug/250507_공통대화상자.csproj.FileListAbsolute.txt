@@ -1,0 +1,10 @@
+D:\011C#\250507_공통대화상자\bin\Debug\250507_공통대화상자.exe.config
+D:\011C#\250507_공통대화상자\bin\Debug\250507_공통대화상자.exe
+D:\011C#\250507_공통대화상자\bin\Debug\250507_공통대화상자.pdb
+D:\011C#\250507_공통대화상자\obj\Debug\250507_공통대화상자.csproj.AssemblyReference.cache
+D:\011C#\250507_공통대화상자\obj\Debug\_250507_공통대화상자.Form1.resources
+D:\011C#\250507_공통대화상자\obj\Debug\_250507_공통대화상자.Properties.Resources.resources
+D:\011C#\250507_공통대화상자\obj\Debug\250507_공통대화상자.csproj.GenerateResource.cache
+D:\011C#\250507_공통대화상자\obj\Debug\250507_공통대화상자.csproj.CoreCompileInputs.cache
+D:\011C#\250507_공통대화상자\obj\Debug\250507_공통대화상자.exe
+D:\011C#\250507_공통대화상자\obj\Debug\250507_공통대화상자.pdb

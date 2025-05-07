@@ -1,0 +1,12 @@
+D:\011C#\250507_DialogEx\bin\Debug\250507_DialogEx.exe.config
+D:\011C#\250507_DialogEx\bin\Debug\250507_DialogEx.exe
+D:\011C#\250507_DialogEx\bin\Debug\250507_DialogEx.pdb
+D:\011C#\250507_DialogEx\obj\Debug\250507_DialogEx.csproj.AssemblyReference.cache
+D:\011C#\250507_DialogEx\obj\Debug\_250507_DialogEx.Form1.resources
+D:\011C#\250507_DialogEx\obj\Debug\_250507_DialogEx.ModalessForm.resources
+D:\011C#\250507_DialogEx\obj\Debug\_250507_DialogEx.ModalForm.resources
+D:\011C#\250507_DialogEx\obj\Debug\_250507_DialogEx.Properties.Resources.resources
+D:\011C#\250507_DialogEx\obj\Debug\250507_DialogEx.csproj.GenerateResource.cache
+D:\011C#\250507_DialogEx\obj\Debug\250507_DialogEx.csproj.CoreCompileInputs.cache
+D:\011C#\250507_DialogEx\obj\Debug\250507_DialogEx.exe
+D:\011C#\250507_DialogEx\obj\Debug\250507_DialogEx.pdb
