@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|solutionrelative:modalessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|d:\\011c#\\250507_dialogex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|D:\\011C#\\250507_DialogEx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|d:\\011c#\\250507_dialogex\\modalessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|D:\\011C#\\250507_DialogEx\\modalessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|solutionrelative:modalessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|d:\\011c#\\250507_dialogex\\modalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|D:\\011C#\\250507_DialogEx\\modalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|solutionrelative:modalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|d:\\011c#\\250507_dialogex\\modalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|D:\\011C#\\250507_DialogEx\\modalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|solutionrelative:modalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|d:\\011c#\\250507_dialogex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|D:\\011C#\\250507_DialogEx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{887561C4-F007-438D-A3B9-59DE281D34DD}|250507_DialogEx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "ModalessForm.cs",
               "ToolTip": "D:\\011C#\\250507_DialogEx\\ModalessForm.cs",
               "RelativeToolTip": "ModalessForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAArwB0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T05:41:14.396Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "ModalForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:36:54.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T05:36:54.753Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:31:55.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T05:31:55.406Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "ToolTip": "D:\\011C#\\250507_DialogEx\\ModalForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "ModalForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:26:17.682Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-05-07T05:26:17.682Z"
             },
             {
               "$type": "Document",
@@ -100,8 +97,7 @@
               "ToolTip": "D:\\011C#\\250507_DialogEx\\ModalessForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "ModalessForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:25:02.291Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-05-07T05:25:02.291Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,7 @@
               "ToolTip": "D:\\011C#\\250507_DialogEx\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:14:09.37Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-05-07T05:14:09.37Z"
             }
           ]
         }

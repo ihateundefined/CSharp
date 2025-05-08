@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "D:\\011C#\\250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C24F88F1-74A3-4021-A8A2-C75B34949DC9}|250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790.csproj|d:\\011c#\\250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24F88F1-74A3-4021-A8A2-C75B34949DC9}|250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C24F88F1-74A3-4021-A8A2-C75B34949DC9}|250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790.csproj|d:\\011c#\\250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C24F88F1-74A3-4021-A8A2-C75B34949DC9}|250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790.csproj|D:\\011C#\\250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C24F88F1-74A3-4021-A8A2-C75B34949DC9}|250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\011C#\\250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\011C#\\250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAWwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T05:59:24.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "D:\\011C#\\250507_\uACF5\uD1B5\uB300\uD654\uC0C1\uC790\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

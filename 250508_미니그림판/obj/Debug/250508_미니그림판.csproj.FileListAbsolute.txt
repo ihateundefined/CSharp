@@ -1,0 +1,10 @@
+D:\011C#\250508_미니그림판\bin\Debug\250508_미니그림판.exe.config
+D:\011C#\250508_미니그림판\bin\Debug\250508_미니그림판.exe
+D:\011C#\250508_미니그림판\bin\Debug\250508_미니그림판.pdb
+D:\011C#\250508_미니그림판\obj\Debug\250508_미니그림판.csproj.AssemblyReference.cache
+D:\011C#\250508_미니그림판\obj\Debug\_250508_미니그림판.Form1.resources
+D:\011C#\250508_미니그림판\obj\Debug\_250508_미니그림판.Properties.Resources.resources
+D:\011C#\250508_미니그림판\obj\Debug\250508_미니그림판.csproj.GenerateResource.cache
+D:\011C#\250508_미니그림판\obj\Debug\250508_미니그림판.csproj.CoreCompileInputs.cache
+D:\011C#\250508_미니그림판\obj\Debug\250508_미니그림판.exe
+D:\011C#\250508_미니그림판\obj\Debug\250508_미니그림판.pdb

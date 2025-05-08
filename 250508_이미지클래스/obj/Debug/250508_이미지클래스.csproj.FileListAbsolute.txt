@@ -1,0 +1,10 @@
+D:\011C#\250508_이미지클래스\bin\Debug\250508_이미지클래스.exe.config
+D:\011C#\250508_이미지클래스\bin\Debug\250508_이미지클래스.exe
+D:\011C#\250508_이미지클래스\bin\Debug\250508_이미지클래스.pdb
+D:\011C#\250508_이미지클래스\obj\Debug\250508_이미지클래스.csproj.AssemblyReference.cache
+D:\011C#\250508_이미지클래스\obj\Debug\_250508_이미지클래스.Form1.resources
+D:\011C#\250508_이미지클래스\obj\Debug\_250508_이미지클래스.Properties.Resources.resources
+D:\011C#\250508_이미지클래스\obj\Debug\250508_이미지클래스.csproj.GenerateResource.cache
+D:\011C#\250508_이미지클래스\obj\Debug\250508_이미지클래스.csproj.CoreCompileInputs.cache
+D:\011C#\250508_이미지클래스\obj\Debug\250508_이미지클래스.exe
+D:\011C#\250508_이미지클래스\obj\Debug\250508_이미지클래스.pdb

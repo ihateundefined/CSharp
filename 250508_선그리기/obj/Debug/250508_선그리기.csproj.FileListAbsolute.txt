@@ -1,0 +1,10 @@
+D:\011C#\250508_선그리기\bin\Debug\250508_선그리기.exe.config
+D:\011C#\250508_선그리기\bin\Debug\250508_선그리기.exe
+D:\011C#\250508_선그리기\bin\Debug\250508_선그리기.pdb
+D:\011C#\250508_선그리기\obj\Debug\250508_선그리기.csproj.AssemblyReference.cache
+D:\011C#\250508_선그리기\obj\Debug\_250508_선그리기.Form1.resources
+D:\011C#\250508_선그리기\obj\Debug\_250508_선그리기.Properties.Resources.resources
+D:\011C#\250508_선그리기\obj\Debug\250508_선그리기.csproj.GenerateResource.cache
+D:\011C#\250508_선그리기\obj\Debug\250508_선그리기.csproj.CoreCompileInputs.cache
+D:\011C#\250508_선그리기\obj\Debug\250508_선그리기.exe
+D:\011C#\250508_선그리기\obj\Debug\250508_선그리기.pdb
