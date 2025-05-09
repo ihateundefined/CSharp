@@ -1,0 +1,7 @@
+D:\011C#\250509_delegate\bin\Debug\250509_delegate.exe.config
+D:\011C#\250509_delegate\bin\Debug\250509_delegate.exe
+D:\011C#\250509_delegate\bin\Debug\250509_delegate.pdb
+D:\011C#\250509_delegate\obj\Debug\250509_delegate.csproj.AssemblyReference.cache
+D:\011C#\250509_delegate\obj\Debug\250509_delegate.csproj.CoreCompileInputs.cache
+D:\011C#\250509_delegate\obj\Debug\250509_delegate.exe
+D:\011C#\250509_delegate\obj\Debug\250509_delegate.pdb
